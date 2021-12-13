@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  display: inline;
+  background-color: black;
+  padding: 0.5rem;
+  margin: 0.8rem;
+  color: rgb(232, 239, 173);
+  border-radius: 0.5rem;
+  border: 1px solid #adefd1ff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.movieList {
+  text-decoration: none;
+  list-style: none;
+  text-align: left;
+  border: 0.2rem solid #adefd1ff;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1rem auto;
+  width: 60%;
+  background-color: #00203fff;
+  color: rgb(187, 173, 239);
+}
+
+.spanText {
+  font-weight: bold;
+  color: rgb(239, 173, 239);
+}
+
+.songDet {
+  color: rgb(88, 205, 209);
+}
